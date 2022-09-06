@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Pablo Herrera aka @Pablouski7
+- 👀 I’m interested in phylosophy, art, programming and sciences in general
+- 🌱 I’m currently learning OOP on C++ at college and soft skills at Platzi
+- 💞️ I’m looking to collaborate on projects of any kind to gain experience
+- 🧰 So far I've learnt HTML, CSS, Javascript, Python, C++ and also I know how to use tools like Notion or Remnote
