@@ -10,6 +10,8 @@
     </tr>
 </table>
 
+<h2 align = "center" style="color: #aeb6bf;">ᖘᎯᑲ𝓵𝖮</h2>
+
 - 👋 Hi, I’m Pablo Herrera aka @Pablouski7
 - 👀 I’m interested in philosophy, art, programming, and sciences in general
 - 🌱 I’m currently learning OOP in C++ at college and soft skills at Platzi
@@ -21,10 +23,10 @@
 <table>
     <tr>
         <td valign="top" width="50%">
-            <img src="https://github-readme-stats.vercel.app/api?username=pablouski7&show_icons=true&theme=shadow_green" align="left" style="width: 97%" />
+            <img src="https://github-readme-stats.vercel.app/api?username=pablouski7&show_icons=true&theme=radical" align="left" style="width: 100%" />
         </td>
         <td valign="top" width="50%">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablouski7&layout=compact&theme=shadow_green" align="left" style="width: 97%" />
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablouski7&layout=compact&theme=radical" align="left" style="width: 75%" />
         </td>
     </tr>
 </table>
