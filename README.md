@@ -12,8 +12,6 @@
 
 <h2 align="center" style="color: #aeb6bf;">ᖘᎯᑲ𝓵𝖮</h2>
 
----
-
 ### 👋 About Me
 
 - 🌱 I’m a computer science engineering student with experience in research-driven development, data analysis, and full-stack solutions for real-world and academic projects.  
