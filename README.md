@@ -1,10 +1,10 @@
 <table style="border: none; width: 100%;">
     <tr>
-        <td align="left" style="border: none;">
+        <td align="left" style="border-color: #0d1117;" >
             <h2>Pablouski7</h2>
         </td>
-        <td style="border: none; width: 100%;"></td>
-        <td align="right" style="border: none;">
+        <td style="border-color: #0d1117; width: 100%"></td>
+        <td align="right" style="border-color: #0d1117;">
             <h2 style="color: #aeb6bf;">ᖘᎯᑲ𝓵𝖮</h2>
         </td>
     </tr>
