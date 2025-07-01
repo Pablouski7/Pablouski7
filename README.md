@@ -10,7 +10,14 @@
     </tr>
 </table> -->
 
-<h2 align="center" style="color: #aeb6bf;">ᖘᎯᑲ𝓵𝖮</h2>
+![Capsule Render](https://capsule-render.vercel.app/api?type=venom&height=200&color=30:98CA3F,100:59d102&text=ᖘᎯᑲ𝓵𝖮&reversal=false&textBg=false&fontSize=60&animation=fadeIn&fontColor=aeb6bf&strokeWidth=2&stroke=ffffff)
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" height="40" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
+</div>
+
+<!-- <h2 align="center" style="color: #aeb6bf;">ᖘᎯᑲ𝓵𝖮</h2> -->
 
 ### 👋 About Me
 
@@ -24,11 +31,24 @@
 
 ### 🛠️ Tech Stack
 
-**Languages & Frameworks**:  
-`Python` • `C++` • `Java` • `Flutter`  
+**Languages & Frameworks**:
 
-**Tools & Technologies**:  
-`MySQL` • `Google Cloud` • `OTree` • `Git` • `High Performance Computing` • `Notion`  
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img style="height: 30px;" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />&nbsp;
+  <img style="height: 30px;" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />&nbsp;
+  <img style="height: 30px;" src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />&nbsp;
+  <img style="height: 30px;" src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+</div>
+
+**Tools & Technologies**:
+
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img style="height: 30px;" src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;
+  <img style="height: 30px;" src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />&nbsp;
+  <img style="height: 30px;" src="https://img.shields.io/badge/-OTree-000000?style=for-the-badge&logo=otree&logoColor=white" />&nbsp;
+  <img style="height: 30px;" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />&nbsp;
+  <img style="height: 30px;" src="https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+</div>
 
 ---
 
