@@ -10,7 +10,7 @@
     </tr>
 </table> -->
 
-![Capsule Render](https://capsule-render.vercel.app/api?type=venom&height=200&color=30:98CA3F,100:59d102&text=ᖘᎯᑲ𝓵𝖮&reversal=false&textBg=false&fontSize=60&animation=fadeIn&fontColor=aeb6bf&strokeWidth=2&stroke=ffffff)
+![Capsule Render](https://capsule-render.vercel.app/api?type=venom&height=200&color=30:98CA3F,100:59d102&text=ᖘᎯᑲ𝓵𝖮&reversal=false&textBg=false&fontSize=60&animation=fadeIn&fontColor=aeb6bf&strokeWidth=1&stroke=ffffff)
 <div align="center">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" height="40" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
@@ -22,10 +22,10 @@
 ### 👋 About Me
 
 - 🌱 I’m a computer science engineering student with experience in research-driven development, data analysis, and full-stack solutions for real-world and academic projects.  
-<!-- - 🧠 Passionate about solving problems that mix code, science, and curiosity.  
-- 🤖 Currently working as a Research Assistant at Universidad San Francisco de Quito.   -->
 - 📚 Lifelong learner — always up for new technologies, ideas, and challenges.  
 - 🤝 I’m open to collaborating on projects to gain experience and expand my skill set.
+<!-- - 🧠 Passionate about solving problems that mix code, science, and curiosity.  
+- 🤖 Currently working as a Research Assistant at Universidad San Francisco de Quito.   -->
 
 ---
 
