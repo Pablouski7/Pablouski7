@@ -15,8 +15,8 @@
 ### 👋 About Me
 
 - 🌱 I’m a computer science engineering student with experience in research-driven development, data analysis, and full-stack solutions for real-world and academic projects.  
-- 🧠 Passionate about solving problems that mix code, science, and curiosity.  
-- 🤖 Currently working as a Research Assistant at Universidad San Francisco de Quito.  
+<!-- - 🧠 Passionate about solving problems that mix code, science, and curiosity.  
+- 🤖 Currently working as a Research Assistant at Universidad San Francisco de Quito.   -->
 - 📚 Lifelong learner — always up for new technologies, ideas, and challenges.  
 - 🤝 I’m open to collaborating on projects to gain experience and expand my skill set.
 
@@ -51,14 +51,16 @@
 - 📱 Built a Flutter app for semantic search in Ecuadorian news, backed by Python & MySQL vector search  
 - 🤓 Developed tools for Ecuador’s first Uncertainty Index (U-Index)
 
+<!--
 ---
 
 ### 📫 Contact Me
 
 - ✉️ Email: aherrera@usfq.edu.ec  
-<!-- - 🌐 Website/Portfolio: *(optional – me avisas si tienes uno)*  
+ - 🌐 Website/Portfolio: *(optional – me avisas si tienes uno)*  
 - 🔗 LinkedIn: *(agrega el enlace si lo deseas)*  
 
 ---
 
-> *“Adaptability is not imitation. It means power of resistance and assimilation.”* — Mahatma Gandhi -->
+> *“Adaptability is not imitation. It means power of resistance and assimilation.”* — Mahatma Gandhi 
+-->
