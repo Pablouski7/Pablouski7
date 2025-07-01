@@ -10,7 +10,7 @@
     </tr>
 </table> -->
 
-![Capsule Render](https://capsule-render.vercel.app/api?type=venom&height=200&color=30:98CA3F,100:59d102&text=ᖘᎯᑲ𝓵𝖮&reversal=false&textBg=false&fontSize=60&animation=fadeIn&fontColor=aeb6bf&strokeWidth=1&stroke=ffffff)
+![Capsule Render](https://capsule-render.vercel.app/api?type=venom&height=200&color=30:98CA3F,100:59d102&text=ᖘᎯᑲ𝓵𝖮&reversal=false&textBg=false&fontSize=60&animation=fadeIn&fontColor=aeb6bf&strokeWidth=0,5&stroke=ffffff)
 <div align="center">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" height="40" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
