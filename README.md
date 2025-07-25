@@ -29,7 +29,7 @@
 
 ---
 
-### :zap: Actividad reciente
+### :zap: Recent Activity
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [Pablouski7/proyecto-coil](https://github.com/Pablouski7/proyecto-coil)<br>
 2. ⭐ Starred [linomp/pdm-game](https://github.com/linomp/pdm-game)<br>
