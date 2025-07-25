@@ -1,0 +1,14 @@
+# .github/recent-activity.config.yml
+# Example configuration
+# For details, see: https://github.com/Readme-Workflows/recent-activity#configuration
+
+# Number of activities to show
+max: 5
+
+# Types of activities to include
+activities:
+  - IssueCommentEvent
+  - PushEvent
+  - PullRequestEvent
+  - PullRequestReviewEvent
+  - IssuesEvent
