@@ -29,6 +29,12 @@
 
 ---
 
+### :zap: Actividad reciente
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
+
+---
+
 ### 🛠️ Tech Stack
 
 **Languages & Frameworks**:
