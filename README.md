@@ -35,8 +35,8 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [Pablouski7/Pablouski7](https://github.com/Pablouski7/Pablouski7)<br>
 2. ⬆️ Pushed 1 commit(s) to [Pablouski7/Pablouski7](https://github.com/Pablouski7/Pablouski7)<br>
-3. ⬆️ Pushed 1 commit(s) to [Pablouski7/proyecto-coil](https://github.com/Pablouski7/proyecto-coil)<br>
-4. ⭐ Starred [linomp/pdm-game](https://github.com/linomp/pdm-game)<br>
+3. ⬆️ Pushed 1 commit(s) to [Pablouski7/Pablouski7](https://github.com/Pablouski7/Pablouski7)<br>
+4. ⬆️ Pushed 1 commit(s) to [Pablouski7/Pablouski7](https://github.com/Pablouski7/Pablouski7)<br>
 5. ⬆️ Pushed 1 commit(s) to [Pablouski7/Pablouski7](https://github.com/Pablouski7/Pablouski7)<br>
 <!--RECENT_ACTIVITY:end-->
 
