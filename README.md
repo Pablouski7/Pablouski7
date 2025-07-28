@@ -31,6 +31,7 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
+1. 🚀 Published release [v0.1](https://github.com/Pablouski7/testPackagePip/releases/tag/v0.1) in [Pablouski7/testPackagePip](https://github.com/Pablouski7/testPackagePip)
 <!--END_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
 1. ✌️ Released [v0.1](https://github.com/Pablouski7/testPackagePip/releases/tag/v0.1) in [Pablouski7/testPackagePip](https://github.com/Pablouski7/testPackagePip)<br>
