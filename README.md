@@ -37,7 +37,6 @@
 2. ⬆️ Pushed 1 commit(s) to [Pablouski7/Pablouski7](https://github.com/Pablouski7/Pablouski7)<br>
 3. ⬆️ Pushed 1 commit(s) to [Pablouski7/Pablouski7](https://github.com/Pablouski7/Pablouski7)<br>
 4. ⬆️ Pushed 1 commit(s) to [Pablouski7/Pablouski7](https://github.com/Pablouski7/Pablouski7)<br>
-5. ✌️ Released [v0.1](https://github.com/Pablouski7/testPackagePip/releases/tag/v0.1) in [Pablouski7/testPackagePip](https://github.com/Pablouski7/testPackagePip)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
