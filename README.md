@@ -33,9 +33,6 @@
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#10](undefined) in [aproano2/cmp-5006-fall25-aproano](https://github.com/aproano2/cmp-5006-fall25-aproano)<br>
-2. ⬆️ Pushed undefined commit(s) to [Pablouski7/cmp-5006-fall25-aproano](https://github.com/Pablouski7/cmp-5006-fall25-aproano)<br>
-3. 🔱 Forked [Pablouski7/cmp-5006-fall25-aproano](https://github.com/Pablouski7/cmp-5006-fall25-aproano) from [Pablouski7/cmp-5006-fall25-aproano](https://github.com/Pablouski7/cmp-5006-fall25-aproano)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
