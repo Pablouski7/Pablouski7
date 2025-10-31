@@ -33,6 +33,7 @@
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
+1. ⭐ Starred [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
