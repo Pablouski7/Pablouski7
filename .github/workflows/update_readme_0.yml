@@ -1,4 +1,4 @@
-name: Update README OG
+name: Update README Activity
 
 on:
   schedule:
@@ -8,13 +8,13 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: Update Profile README
+    name: Update README with recent activity
     permissions:
       contents: write
 
     steps:
       - uses: actions/checkout@v4
 
-      - uses: Readme-Workflows/recent-activity@v2.4.1
+      - uses: jamesgeorge007/github-activity-readme@v0.5.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
