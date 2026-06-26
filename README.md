@@ -21,7 +21,7 @@
 
 ### 👋 About Me
 
-- 🌱 I’m a computer science engineering student with experience in research-driven development, data analysis, and full-stack solutions for real-world and academic projects.  
+- 🌱 I’m a computer science engineering with experience in research-driven development, data analysis, and full-stack solutions for real-world and academic projects.  
 - 📚 Lifelong learner — always up for new technologies, ideas, and challenges.  
 - 🤝 I’m open to collaborating on projects to gain experience and expand my skill set.
 <!-- - 🧠 Passionate about solving problems that mix code, science, and curiosity.  
