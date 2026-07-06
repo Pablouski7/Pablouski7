@@ -32,10 +32,6 @@
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🔨 Pushed 1 commit to `main` in [Pablouski7/Pablouski7](https://github.com/Pablouski7/Pablouski7)
-2. 🔨 Pushed 1 commit to `main` in [Pablouski7/custom-apps](https://github.com/Pablouski7/custom-apps)
-3. 📂 Created branch `main` in [Pablouski7/video-editor](https://github.com/Pablouski7/video-editor)
-4. 📂 Created branch `main` in [Pablouski7/agent-editor](https://github.com/Pablouski7/agent-editor)
-5. 📂 Created branch `main` in [Pablouski7/custom-apps](https://github.com/Pablouski7/custom-apps)
 <!--END_SECTION:activity-->
 
 ---
