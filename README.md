@@ -64,8 +64,8 @@
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=pablouski7&show_icons=true&theme=radical&count_private=true&include_all_commits=true" width="100%"/></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablouski7&layout=compact&theme=radical&count_private=true" width="100%"/></td>
+      <td><img src="https://github-stats-extended.vercel.app/api?username=pablouski7&show_icons=true&theme=radical&count_private=true&include_all_commits=true" width="100%"/></td>
+      <td><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=pablouski7&layout=compact&theme=radical&count_private=true" width="100%"/></td>
     </tr>
   </table>
 </div>
