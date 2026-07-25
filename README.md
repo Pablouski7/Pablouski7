@@ -31,7 +31,8 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🔨 Pushed 1 commit to `main` in [Pablouski7/Pablouski7](https://github.com/Pablouski7/Pablouski7)
+1. 🔨 Pushed 1 commit to `main` in [Pablouski7/clustering_n_rag_u_index](https://github.com/Pablouski7/clustering_n_rag_u_index)
+2. 🔨 Pushed 1 commit to `main` in [Pablouski7/Pablouski7](https://github.com/Pablouski7/Pablouski7)
 <!--END_SECTION:activity-->
 
 ---
