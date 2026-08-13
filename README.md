@@ -32,10 +32,9 @@
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🔨 Pushed 28 commits to `main` in [Pablouski7/custom-apps](https://github.com/Pablouski7/custom-apps)
-2. 🔨 Pushed commits to `main` in [Pablouski7/custom-apps](https://github.com/Pablouski7/custom-apps)
+2. 🔨 Pushed 1 commit to `main` in [Pablouski7/custom-apps](https://github.com/Pablouski7/custom-apps)
 3. 🔨 Pushed 2 commits to `main` in [Pablouski7/clustering_n_rag_u_index](https://github.com/Pablouski7/clustering_n_rag_u_index)
 4. 🔨 Pushed 1 commit to `main` in [Pablouski7/clustering_n_rag_u_index](https://github.com/Pablouski7/clustering_n_rag_u_index)
-5. 🔨 Pushed commits to `main` in [Pablouski7/clustering_n_rag_u_index](https://github.com/Pablouski7/clustering_n_rag_u_index)
 <!--END_SECTION:activity-->
 
 ---
