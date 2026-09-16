@@ -31,8 +31,7 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🔨 Pushed 2 commits to `main` in [Pablouski7/custom-apps](https://github.com/Pablouski7/custom-apps)
-2. 🔨 Pushed 1 commit to `main` in [Pablouski7/custom-apps](https://github.com/Pablouski7/custom-apps)
+
 <!--END_SECTION:activity-->
 
 ---
