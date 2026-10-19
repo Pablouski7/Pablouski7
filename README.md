@@ -31,10 +31,7 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 📂 Created branch `main` in [Pablouski7/obsidian-open-in-webviewer](https://github.com/Pablouski7/obsidian-open-in-webviewer)
-2. 🚀 Released [1.0.1](https://github.com/Pablouski7/obsidian-open-in-webviewer/releases/tag/1.0.1) in [Pablouski7/obsidian-open-in-webviewer](https://github.com/Pablouski7/obsidian-open-in-webviewer)
-3. 🔨 Pushed 1 commit to `main` in [Pablouski7/obsidian-open-in-webviewer](https://github.com/Pablouski7/obsidian-open-in-webviewer)
-4. 🚀 Released [1.0.0](https://github.com/Pablouski7/obsidian-open-in-webviewer/releases/tag/1.0.0) in [Pablouski7/obsidian-open-in-webviewer](https://github.com/Pablouski7/obsidian-open-in-webviewer)
+
 <!--END_SECTION:activity-->
 
 ---
